@@ -48,8 +48,9 @@ streamlit run dashboard.py
 
 ---
 
-### 🚀 Deployment
+### 🚀 View
 
-Easily deployable to [Streamlit.io](https://streamlit.io/) or [Render.com](https://render.com/) for public access.
+![image](https://github.com/user-attachments/assets/2b714684-fa2e-443b-9043-7ad6d9c7f56e)
+![image](https://github.com/user-attachments/assets/d2e9693e-e3b9-47d5-bbd4-0554a0076aa1)
 
 
