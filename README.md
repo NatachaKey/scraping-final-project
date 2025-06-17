@@ -41,7 +41,7 @@ An interactive **Streamlit** dashboard to explore **MLB historical player statis
 
 1. Clone the repository
    
-   git clone [https://github.com/yourusername/scraping-final-project.git]
+   git clone  https://github.com/NatachaKey/scraping-final-project.git
    
    cd scraping-final-project
 
