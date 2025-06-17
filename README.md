@@ -69,7 +69,6 @@ An interactive **Streamlit** dashboard to explore **MLB historical player statis
 
 This final project brings together scraping, data wrangling, and visualization to let users explore nearly 150 years of MLB player data in one intuitive app. Ideal for fans, analysts, or anyone learning full-stack data science with Python.
 
-streamlit.io (https://streamlit.io/)
 
 ---
 
