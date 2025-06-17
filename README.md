@@ -1,6 +1,3 @@
-Here’s a polished version of your README for the GitHub repository:
-
----
 
 # ⚾️ Scraping-Final-Project
 
