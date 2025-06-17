@@ -7,34 +7,24 @@ An interactive **Streamlit** dashboard to explore **MLB historical player statis
 
 ---
 
-### 🔍 Features
+## 🔍 Features
 
-#### 📊 Visualizations:
+### 📊 Visualizations:
+- **Bar Chart** – Top players by selected stat  
+- **Pie Chart** – Team distribution among top players  
+- **Line Chart** – Stat trends over time  
 
-* **Bar Chart** – Top players by selected stat
-* **Pie Chart** – Team distribution among top players
-* **Line Chart** – Stat trends over time
+### 🎛 Controls:
+- **Dropdown** – Choose a statistic  
+- **Slider** – Set number of top players  
+- **Year Range Selector** – Filter by season span  
 
-#### 🎛 Controls:
+### 📂 Data Source:
+- Cleaned from **150+ CSV files** into a **SQLite** database
 
-* **Dropdown** – Choose a statistic
-* **Slider** – Set number of top players
-* **Year Range Selector** – Filter by season span
-
-#### 📂 Data Source:
-
-* **150+ CSV files** cleaned and imported into a **SQLite** database
 
 ---
 
-### ▶️ How to Run
-
-```bash
-pip install -r requirements.txt  
-streamlit run dashboard.py
-```
-
----
 
 ### 📦 Project Files
 
@@ -47,10 +37,47 @@ streamlit run dashboard.py
 | `mlb_almanac.db`  | Generated SQLite database                    |
 
 ---
+## 🛠 Setup Instructions
+
+1. Clone the repository
+   
+   git clone https://github.com/yourusername/scraping-final-project.git
+   cd scraping-final-project
+
+
+2. **Install dependencies**
+
+   ```bash
+   pip install -r requirements.txt
+   
+
+3. Import data into the database
+
+   
+   python import_to_db.py
+   
+
+4. Run the dashboard
+
+   
+   streamlit run dashboard.py
+   
+
+
+## 📄 Summary
+
+This final project brings together scraping, data wrangling, and visualization to let users explore nearly 150 years of MLB player data in one intuitive app. Ideal for fans, analysts, or anyone learning full-stack data science with Python.
+
+streamlit.io (https://streamlit.io/)
+
+---
 
 ### 🚀 View
 
 ![image](https://github.com/user-attachments/assets/2b714684-fa2e-443b-9043-7ad6d9c7f56e)
 ![image](https://github.com/user-attachments/assets/d2e9693e-e3b9-47d5-bbd4-0554a0076aa1)
+
+
+
 
 
