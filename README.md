@@ -41,23 +41,24 @@ An interactive **Streamlit** dashboard to explore **MLB historical player statis
 
 1. Clone the repository
    
-   git clone https://github.com/yourusername/scraping-final-project.git
+   git clone [https://github.com/yourusername/scraping-final-project.git](https://github.com/NatachaKey/scraping-final-project.git)
+   
    cd scraping-final-project
 
 
-2. **Install dependencies**
+3. **Install dependencies**
 
    ```bash
    pip install -r requirements.txt
    
 
-3. Import data into the database
+4. Import data into the database
 
    
    python import_to_db.py
    
 
-4. Run the dashboard
+5. Run the dashboard
 
    
    streamlit run dashboard.py
